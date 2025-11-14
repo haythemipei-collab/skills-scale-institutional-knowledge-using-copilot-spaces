@@ -38,7 +38,10 @@ Communication and quality assurance are deeply embedded in the OctoAcme way of w
    Capture learnings, run effective retrospectives, track action items, and foster a culture of continuous improvement.
 
 8. **[Roles & Personas](octoacme-roles-and-personas.md)**  
-   Detailed definitions of roles including Developers, Product Managers, Project Managers, QA/Testing, and Stakeholders with responsibilities and communication patterns.
+   Detailed definitions of roles including Developers, Product Managers, Project Managers, Portfolio Owners, Project Sponsors, Change Managers, SMEs, Technical Leads, and more with responsibilities and communication patterns.
+
+9. **[Role Onboarding & Stakeholder Engagement](octoacme-role-onboarding-and-stakeholder-engagement.md)**  
+   Comprehensive checklists and templates for onboarding team members, managing stakeholder engagement, defining handoff points, and establishing escalation paths.
 
 ## Key Artifacts & Templates
 
@@ -50,6 +53,9 @@ Throughout these process documents, you'll find references to essential project 
 - **Definition of Done (DoD)** — Quality standards that must be met before work is considered complete
 - **Risk Register** — Tracked risks with impact, likelihood, owners, and mitigation plans
 - **Retrospective Notes & Action Items** — Learnings and improvements from completed work
+- **Role Onboarding Checklists** — Structured onboarding for each role with clear expectations and initial tasks
+- **Stakeholder Engagement Plans** — Communication strategies and templates for effective stakeholder management
+- **Role Handoff Templates** — Documented transitions and escalation paths between roles
 
 ## Getting Started
 
